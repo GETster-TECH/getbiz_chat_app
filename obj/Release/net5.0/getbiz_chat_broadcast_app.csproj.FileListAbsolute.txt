@@ -1,0 +1,156 @@
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.Development.json
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.json
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.exe
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.deps.json
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.json
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.dev.json
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.pdb
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Humanizer.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\MySqlConnector.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Lokesh\getbiz_chat_broadcast_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.AssemblyReference.cache
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfoInputs.cache
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfo.cs
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CoreCompileInputs.cache
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cs
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cache
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.Manifest.cache
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.xml
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\scopedcss\bundle\getbiz_chat_broadcast_app.styles.css
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.RazorTargetAssemblyInfo.cache
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CopyComplete
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.dll
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.pdb
+D:\Lokesh\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.genruntimeconfig.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.Development.json
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.json
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.exe
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.deps.json
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.json
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.dev.json
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.pdb
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Humanizer.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\MySqlConnector.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.AssemblyReference.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfoInputs.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfo.cs
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CoreCompileInputs.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cs
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.Manifest.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.xml
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\scopedcss\bundle\getbiz_chat_broadcast_app.styles.css
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.RazorTargetAssemblyInfo.cache
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CopyComplete
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.pdb
+D:\Edwin Anto\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.genruntimeconfig.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.Development.json
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.json
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.exe
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.deps.json
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.json
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.dev.json
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.pdb
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Humanizer.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\MySqlConnector.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfoInputs.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfo.cs
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CoreCompileInputs.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cs
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.Manifest.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.xml
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\scopedcss\bundle\getbiz_chat_broadcast_app.styles.css
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.RazorTargetAssemblyInfo.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CopyComplete
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.pdb
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.genruntimeconfig.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.AssemblyReference.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.Development.json
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\appsettings.json
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.exe
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.deps.json
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.json
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.runtimeconfig.dev.json
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\getbiz_chat_broadcast_app.pdb
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Humanizer.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Microsoft.OpenApi.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\MySqlConnector.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Newtonsoft.Json.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.AssemblyReference.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfoInputs.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.AssemblyInfo.cs
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CoreCompileInputs.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cs
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.MvcApplicationPartsAssemblyInfo.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.Manifest.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\staticwebassets\getbiz_chat_broadcast_app.StaticWebAssets.xml
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\scopedcss\bundle\getbiz_chat_broadcast_app.styles.css
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.RazorTargetAssemblyInfo.cache
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.csproj.CopyComplete
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\ref\getbiz_chat_broadcast_app.dll
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.pdb
+E:\.NetProjects\getbiz_chat_broadcast_app\getbiz_chat_broadcast_app\obj\Release\net5.0\getbiz_chat_broadcast_app.genruntimeconfig.cache
